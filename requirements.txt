@@ -6,7 +6,6 @@ click
 Sphinx
 coverage
 awscli
-flake8
 numpy
 joblib
 pandas
