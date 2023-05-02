@@ -44,3 +44,5 @@ jobs:
     - name: Pushing docker image
       run: |
         docker push ${{secrets.DOCKER_USERNAME}}/mlops
+
+        # Vaishu
